@@ -67,3 +67,76 @@ Rote LED
 •	Blinkt: Auto-Modus aus → Handbetrieb
  
 
+
+
+
+Übersichtskarte – 6 Fresszeiten für deine Zeitschaltuhr
+(ON = Öffnen / OFF = Schließen)
+
+
+
+
+ 
+🕒 1. Beispiel-Fresszeiten 
+Diese Zeiten sind alltagstauglich und orientieren sich an deinem Wunschstart um 06:00.
+Fresszeit	Öffnen (ON)	Schließen (OFF)
+1	06:00	07:00
+2	10:00	11:00
+3	13:00	14:00
+… bis 20 Zeiten (meist reichen 5-6)
+passe es genau an deinen Stall-Rhythmus an.
+ 
+📘 2. Schritt-für-Schritt Anleitung zum Programmieren
+🔧 A. Uhrzeit einstellen
+1.	CLOCK gedrückt halten
+2.	Währenddessen:
+o	D+ = Wochentag
+o	H+ = Stunde
+o	M+ = Minute
+3.	CLOCK loslassen → gespeichert
+ 
+🟦 B. Schaltzeiten programmieren
+Du programmierst immer ein Paar:
+ON1 → OFF1, dann ON2 → OFF2 … bis ON6 → OFF6
+ 
+🥇 Fresszeit 1 programmieren (06:00 – 07:00)
+➤ ON1: Öffnen
+1.	P drücken → Display zeigt 1 ON
+2.	Wochentage mit D+ auswählen (am besten MO–SO)
+3.	H+ → 06 einstellen
+4.	M+ → 00 einstellen
+➤ OFF1: Schließen
+1.	P drücken → Display zeigt 1 OFF
+2.	H+ → 07
+3.	M+ → 00
+ 
+🥈 Fresszeit 2 programmieren (10:00 – 11:00)
+➤ ON2
+•	P drücken, bis 2 ON erscheint
+•	10:00 einstellen
+➤ OFF2
+•	P drücken, bis 2 OFF erscheint
+•	11:00 einstellen
+ 
+🥉 Fresszeit 3 programmieren (13:00 – 14:00)
+➤ ON3
+•	3 ON → 13:00
+➤ OFF3
+•	3 OFF → 14:00
+ 
+🟩 Fresszeit 4 …
+ 
+🔁 3. Wichtig: Betriebsmodus einstellen
+Oben rechts der Schalter:
+•	AUTO → das Programm läuft automatisch (muss aktiv sein)
+•	ON → dauerhaft EIN
+•	OFF → dauerhaft AUS
+👉 Für die Heuraufe immer AUTO verwenden!
+
+
+
+
+
+
+
+
