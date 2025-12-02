@@ -134,7 +134,8 @@ Oben rechts der Schalter:
 👉 Für die Heuraufe immer AUTO verwenden!
 
 
-
+Technischer Hinweis:
+Bei der beschriebenen Heuraufensteuerung handelt es sich um ein individuelles DIY-Projekt. Der Nachbau erfolgt vollständig auf eigene Verantwortung. Alle mechanischen, elektrischen und softwareseitigen Komponenten müssen vor Inbetriebnahme eigenständig geprüft, korrekt dimensioniert und sicher installiert werden. Für Schäden, Fehlfunktionen oder Risiken, die aus dem Nachbau oder unsachgemäßer Nutzung entstehen könnten, wird keinerlei Haftung übernommen. Jede Anpassung oder Erweiterung sollte nur mit entsprechendem Fachwissen durchgeführt werden.
 
 
 
